@@ -1,8 +1,4 @@
 # pineapple-counter
-Handy Android application that enables you to count all the pineapples that you see.
-
-Download from the Google Play Store: https://play.google.com/store/apps/details?id=com.brendanroddy.pineapplecounter
-
 You're walking down the sidewalk when something prickly snags your gaze. You see it prominently displayed in the storefront: a pineapple.
 
 Tropical.
@@ -16,3 +12,5 @@ Pineapple Counter puts finality to the throats of all your miseries. No adjectiv
 It's easy: "Just pull up the app and tap!"
 
 NOTE: Pineapple Counter now automatically detects pineapple apocalypses.
+
+Download from the Google Play Store: https://play.google.com/store/apps/details?id=com.brendanroddy.pineapplecounter
