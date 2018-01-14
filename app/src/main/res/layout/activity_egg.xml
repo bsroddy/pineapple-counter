@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    tools:context="com.brendanroddy.pineapplecounter.Egg">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFFFF"
+        style="@style/CustomText"
+        android:layout_marginTop="32dp"
+        android:text="You jolt from your half-conscious stupor when you notice your withered hands.  You look up, and the room’s blurriness whispers to you that it’s all over.  And for the first time in decades, something moves in you.  You drop the book and press your palms into your eyes.
+                \n
+                \nYou were young.  You were curious.  And there were so many books in that library.  You memorized all of them; you could tell stories for hours.
+                \n
+                \nBut what did that librarian’s face look like?
+                \n
+                \nWhy can’t you remember her face?
+"/>
+</RelativeLayout>
+

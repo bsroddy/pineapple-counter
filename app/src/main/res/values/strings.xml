@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pineapple Counter</string>
+
+    <!-- The following are live ads-->
+    <string name="start_banner_ad_unit_id">ca-app-pub-6685202292509456/4921319122 </string>
+    <string name="counter_banner_ad_unit_id">ca-app-pub-6685202292509456/9284139920</string>
+
+    <!--
+    These are the test ads.
+    <string name="start_banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="counter_banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    -->
+</resources>
